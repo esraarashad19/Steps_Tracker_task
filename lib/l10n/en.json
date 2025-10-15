@@ -1,0 +1,46 @@
+{
+  "splash_header_text": "Steps & Weight Tracker",
+  "completeProfile": "Complete your profile",
+  "addProfilePhoto": "Add profile photo",
+  "yourName": "Your Name",
+  "currentWeight": "Current Weight (kg)",
+  "fieldRequired": "Required field",
+  "currentTime": "Current Time",
+  "steps": "Steps",
+  "trackingActive": "Tracking Active",
+  "stepsLoggedSuccessfully": "Steps logged successfully!",
+  "stepsTracker": "Steps Tracker",
+  "logCurrentSteps": "Log Current Steps",
+  "startTracking": "Start Tracking",
+  "noStepsLogged": "No Steps Logged",
+  "userNotAuthenticated": "User not authenticated",
+  "failedToFetchSteps": "Failed to fetch steps",
+  "st": "St",
+  "s": "S",
+  "m": "M",
+  "t": "T",
+  "w": "W",
+  "th": "Th",
+  "f": "F",
+  "noWeight": "No Recorded Weights Exist",
+  "saveChanges": "Save Changes",
+  "weight": "Weight (Kg)",
+  "failedToSignIn": "Failed to sign in",
+  "checkYourInternetConnection": "No internet connection",
+  "goal": "Goal",
+  "delete": "Delete",
+  "kg": "kg",
+  "darkTheme": "Dark Theme",
+  "english": "English",
+  "arabic": "Arabic",
+  "settings": "Settings",
+  "weights": "Weights",
+  "history": "History",
+  "signOut": "Sign Out"
+
+
+
+
+
+
+}

@@ -1,0 +1,53 @@
+{
+  "splash_header_text": "متتبع الخطوات والوزن",
+  "completeProfile": "أكمل ملفك الشخصي",
+  "addProfilePhoto": "إضافة صورة الملف الشخصي",
+  "yourName": "اسمك",
+  "currentWeight": "الوزن الحالي (كجم)",
+  "fieldRequired": "الحقل المطلوب",
+  "currentTime": "الوقت الحالي",
+  "steps": "الخطوات",
+  "trackingActive": "التتبع نشط",
+  "stepsLoggedSuccessfully": "تم تسجيل الخطوات بنجاح!",
+  "stepsTracker": "متتبع الخطوات",
+  "logCurrentSteps": "سجل الخطوات الحالية",
+  "startTracking": "ابدأ التتبع",
+  "noStepsLogged": "لم يتم تسجيل أي خطوات",
+  "userNotAuthenticated": "لم تتم مصادقة المستخدم",
+  "failedToFetchSteps": "فشل في جلب الخطوات",
+  "st": "السبت",
+  "s": "الآحد",
+  "m": "الآثنين",
+  "t": "الثلاثاء",
+  "w": "الآربعاِِء",
+  "th": "الخميس",
+  "f": "الجمعه",
+  "noWeight": "لا توجد أوزان مسجلة",
+  "saveChanges": "حفظ التغييرات",
+  "weight": "الوزن (كجم)",
+  "failedToSignIn": "فشل تسجيل الدخول",
+  "checkYourInternetConnection": "لا يوجد اتصال بالإنترنت",
+  "goal": "الهدف",
+  "delete": "حذف",
+  "kg": "كجم",
+  "darkTheme": "وضع داكن",
+  "english": "إنجليزي",
+  "arabic": "عربي",
+  "settings": "الإعدادات",
+  "weights": "الأوزان",
+  "history": "السجل",
+  "signOut": "تسجيل الخروج"
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
