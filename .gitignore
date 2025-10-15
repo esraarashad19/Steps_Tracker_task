@@ -1,0 +1,46 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+generated_plugin_registrant.dart
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+ios/build/
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Pods/
+macos/Runner/GeneratedPluginRegistrant.*
+macos/Flutter/ephemeral/
+
+# Firebase & Secrets
+google-services.json
+GoogleService-Info.plist
+.env
+*.log
+/build
+/.dart_tool
+build/
+.dart_tool/
+*.apk
