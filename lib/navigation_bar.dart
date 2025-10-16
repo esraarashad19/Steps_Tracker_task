@@ -64,7 +64,7 @@ class _NavigationBarScreenState extends State<NavigationBarScreen> {
                 4.sw,
 
                 CustomText16(
-                  SharedPrefService.getUserName()??'',color: AppColors.backgroundColor(context),
+                  SharedPrefService.getUserName()??'',
                 ),
 
               ],
